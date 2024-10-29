@@ -101,3 +101,6 @@ Pour exécuter les tests :
 
 ```bash
 mvn test
+```
+
+Développé avec ❤️ par Reda TAHA.

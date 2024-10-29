@@ -34,7 +34,7 @@ Le projet se compose principalement des classes suivantes :
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/HealthIndexProcessor.git
+   git clone https://github.com/redaTaha95/HealthIndexProcessor
 
 2. Naviguez dans le dossier du projet :
 
